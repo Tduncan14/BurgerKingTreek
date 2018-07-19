@@ -1,5 +1,5 @@
 {
-  "name": "hw12_isaac_lee",
+  "name": "treek",
   "version": "1.0.0",
   "description": "Eat Da Burger",
   "main": "server.js",
@@ -16,6 +16,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "Isaac J. Lee",
+  "author": "treek",
   "license": "ISC"
 }
